@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderpelete",
+        "uuid": 5617456,
+        "checksum": "prffv"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
